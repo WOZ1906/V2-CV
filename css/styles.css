@@ -29,7 +29,10 @@ h3 {
   font-family: verdana;
   color: #66BFBF;
 }
-
+/*ADD LOGO HERE STYLE*/
+.logo1{
+background-color: #1b1b1b;
+}
 /***********************************IDS*******************************/
 #headlink {
   color: #66BFBF;
